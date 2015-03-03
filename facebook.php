@@ -10,7 +10,7 @@ License: GPL2
 */
 $themater_facebook_defaults = array(
     'title' => 'Facebook',
-    'url' => 'https://www.facebook.com/pages/Freeweb-Mentor/515185928569809',
+    'url' => 'https://www.facebook.com/freewebmentor',
     'width' => '292',
     'height' => '180',
     'colorscheme' => 'light',

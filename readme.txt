@@ -12,7 +12,7 @@ Responsible Facebook Like Box in your WordPress sidebar widgets.
 
 It will display a more flexible and responsible Facebook Like Box in your WordPress sidebar widgets. More than that, it also enable to display in your code template. Facebook Like Box is a wordpress social plugin that enables Facebook Page owners to attract and gain Likes from their own website.
 
-More info and screenshots  on  http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html
+More info and screenshots [Click Here](http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html)
 
 
 == Best Facebook Like Box widget  for WordPress ==
@@ -39,12 +39,23 @@ Tags: facebook, likebox, facebook like, pages, facebook box , facebook like box,
 
 == Screenshots ==
 
-http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html
+[Responsive Facebook like box](https://wordpress.org/plugins/responsive-facebook-like-box/) Front-end
+
+For more : [Click Here](http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html)
 
 == Changelog ==
 
+= 1.0 =
 
+*  Initial version of Facebook like box.
 
+= 2.1.0 =
+
+*  Edited some features fields like : 
+
+1) User friendly and easy to use.
+2) Tested with other popular plugins.
+3) Ability to set connections number.
 
 
 == Upgrade Notice ==

@@ -39,8 +39,6 @@ Tags: facebook, likebox, facebook like, pages, facebook box , facebook like box,
 
 == Screenshots ==
 
-[Responsive Facebook like box](https://wordpress.org/plugins/responsive-facebook-like-box/) Front-end
-
 For more : [Click Here](http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html)
 
 == Changelog ==

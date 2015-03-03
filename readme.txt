@@ -15,7 +15,7 @@ It will display a more flexible and responsible Facebook Like Box in your WordPr
 More info and screenshots [Click Here](http://freewebmentor.com/2013/10/facebook-like-box-wordpress.html)
 
 
-== Best Facebook Like Box widget  for WordPress ==
+Best Facebook Like Box widget  for WordPress
 
     1.See how many users already like this Page, and which of their friends like it too
     3.Like the Page with only one click.

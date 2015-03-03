@@ -3,8 +3,8 @@
 Plugin Name: Facebook Like Box 
 Plugin URI: http://www.freewebmentor.com
 Description: This plugin helps you create a simple widgets for facebook like box in WordPress.
-Version: 1.0
-Author:  Prem Chandra Tiwari
+Version: 2.1.0
+Author: Prem Chandra Tiwari
 Author URI: http://www.freewebmentor.com
 License: GPL2
 */
